@@ -3,7 +3,7 @@
 -- main.lua
 --
 -----------------------------------------------------------------------------------------
-
+-- Changes for GitHub
 -- hide the status bar
 --display.setStatusBar( display.HiddenStatusBar )
 
